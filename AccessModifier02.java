@@ -7,8 +7,8 @@ public class AccessModifier02 extends AccessModifier {
 		AccessModifier02 accessModifier02=new AccessModifier02();
 		accessModifier02.task1();
 		accessModifier02.task3();
-		accessModifier02.task2();
-		accessModifier02.task4();
+//		accessModifier02.task2();
+//		accessModifier02.task4();
 	}
 	
 }
